@@ -3,7 +3,7 @@ A [Giter8][g8] template for Spring Boot Crud With Java!
 # How to use
 ---
 You can import the template using
-`sbt new `
+`sbt new knoldus/spring-boot-crud-java.g8`
 
 You will need to install Cassandra on your local machine for using this template. For information on how to install Cassandra, please refer to [http://cassandra.apache.org/download/]). After Downloading it, you need to run cassandra on port no. 9042 and Cassandra by default runs on same port which is 9042.
 
